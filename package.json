@@ -1,0 +1,25 @@
+{
+  "name": "prelime_exam",
+  "version": "1.0.0",
+  "description": "prelim exam",
+  "main": "db.js",
+  "scripts": {
+    "test": "prelim"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebbieAntiveros/AntiverosGulayanPrelimExam.git"
+  },
+  "keywords": [
+    "prelim"
+  ],
+  "author": "AntiverosGulayan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DebbieAntiveros/AntiverosGulayanPrelimExam/issues"
+  },
+  "homepage": "https://github.com/DebbieAntiveros/AntiverosGulayanPrelimExam#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
